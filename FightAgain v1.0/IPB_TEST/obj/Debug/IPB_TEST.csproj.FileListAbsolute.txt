@@ -1,0 +1,25 @@
+C:\Users\DjTrilogicLT\Documents\Visual Studio 2012\Projects\IPB_TEST\IPB_TEST\bin\Debug\IPB_TEST.dll
+C:\Users\DjTrilogicLT\Documents\Visual Studio 2012\Projects\IPB_TEST\IPB_TEST\bin\Debug\IPB_TEST.pdb
+C:\Users\DjTrilogicLT\Documents\Visual Studio 2012\Projects\IPB_TEST\IPB_TEST\bin\Debug\IcePhoenixAPI.dll
+C:\Users\DjTrilogicLT\Documents\Visual Studio 2012\Projects\IPB_TEST\IPB_TEST\obj\Debug\IPB_TEST.csprojResolveAssemblyReference.cache
+C:\Users\DjTrilogicLT\Documents\Visual Studio 2012\Projects\IPB_TEST\IPB_TEST\obj\Debug\IPB_TEST.Container.resources
+C:\Users\DjTrilogicLT\Documents\Visual Studio 2012\Projects\IPB_TEST\IPB_TEST\obj\Debug\IPB_TEST.csproj.GenerateResource.Cache
+C:\Users\DjTrilogicLT\Documents\Visual Studio 2012\Projects\IPB_TEST\IPB_TEST\obj\Debug\IPB_TEST.dll
+C:\Users\DjTrilogicLT\Documents\Visual Studio 2012\Projects\IPB_TEST\IPB_TEST\obj\Debug\IPB_TEST.pdb
+C:\Users\DjTrilogicLT\Documents\Visual Studio 2012\Projects\IPB_TEST\IPB_TEST\obj\Debug\FightAgainForm.baml
+C:\Users\DjTrilogicLT\Documents\Visual Studio 2012\Projects\IPB_TEST\IPB_TEST\obj\Debug\FightAgainForm.g.cs
+C:\Users\DjTrilogicLT\Documents\Visual Studio 2012\Projects\IPB_TEST\IPB_TEST\obj\Debug\IPB_TEST_MarkupCompile.cache
+C:\Users\DjTrilogicLT\Documents\Visual Studio 2012\Projects\IPB_TEST\IPB_TEST\obj\Debug\IPB_TEST.g.resources
+C:\Users\DjTrilogicLT\Documents\Visual Studio 2012\Projects\IPB_TEST\IPB_TEST\obj\Debug\IPB_TEST.Properties.Resources.resources
+C:\Users\DjTrilogic\Desktop\IPB_TEST\IPB_TEST\bin\Debug\IPB_TEST.dll
+C:\Users\DjTrilogic\Desktop\IPB_TEST\IPB_TEST\bin\Debug\IPB_TEST.pdb
+C:\Users\DjTrilogic\Desktop\IPB_TEST\IPB_TEST\obj\Debug\IPB_TEST.csprojResolveAssemblyReference.cache
+C:\Users\DjTrilogic\Desktop\IPB_TEST\IPB_TEST\obj\Debug\FightAgainForm.baml
+C:\Users\DjTrilogic\Desktop\IPB_TEST\IPB_TEST\obj\Debug\FightAgainForm.g.cs
+C:\Users\DjTrilogic\Desktop\IPB_TEST\IPB_TEST\obj\Debug\IPB_TEST_MarkupCompile.cache
+C:\Users\DjTrilogic\Desktop\IPB_TEST\IPB_TEST\obj\Debug\IPB_TEST.g.resources
+C:\Users\DjTrilogic\Desktop\IPB_TEST\IPB_TEST\obj\Debug\IPB_TEST.Container.resources
+C:\Users\DjTrilogic\Desktop\IPB_TEST\IPB_TEST\obj\Debug\IPB_TEST.Properties.Resources.resources
+C:\Users\DjTrilogic\Desktop\IPB_TEST\IPB_TEST\obj\Debug\IPB_TEST.csproj.GenerateResource.Cache
+C:\Users\DjTrilogic\Desktop\IPB_TEST\IPB_TEST\obj\Debug\IPB_TEST.dll
+C:\Users\DjTrilogic\Desktop\IPB_TEST\IPB_TEST\obj\Debug\IPB_TEST.pdb
